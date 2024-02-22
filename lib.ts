@@ -1,8 +1,6 @@
 "use server";
 
 import { compareSync } from "bcryptjs";
-import { cookies } from "next/headers";
-import { NextRequest, NextResponse } from "next/server";
 import getAuth from "@/auth";
 
 export async function signIn(
