@@ -30,7 +30,7 @@ export function Guest() {
             />
           </div>
           <button
-            className="focus:shadow-outline ml-3 rounded bg-blue-500 px-4 py-2 text-sm font-bold text-white hover:bg-blue-600 focus:outline-none"
+            className="focus:shadow-outline ml-3 w-24 rounded bg-blue-500 px-4 py-2 text-sm font-bold text-white hover:bg-blue-600 focus:outline-none"
             type="submit"
           >
             Sign In
