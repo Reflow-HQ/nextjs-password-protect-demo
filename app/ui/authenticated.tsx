@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useFormState } from "react-dom";
 import { signOut } from "@/lib";
 
