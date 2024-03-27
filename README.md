@@ -2,6 +2,8 @@ This is a Next.js 14 example that demonstrates simple user sessions using [Reflo
 
 The app has two states: guest and authenticated. To view the authenticated state you need to enter a pre-defined passphrase. The user session is then saved in a cookie and persists in future visits.
 
+You can view a live demo here - [https://nextjs-password-protect-demo.vercel.app/](https://nextjs-password-protect-demo.vercel.app/)
+
 # Getting Started
 
 To run the example, follow these steps
