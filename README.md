@@ -11,7 +11,7 @@ To run the example, follow these steps
 
 - `HASHED_PASSPHRASE` - You can generate a hashed passphrase for accessing the authenticated app state by running `npm run make-passphrase`.
 - `SESSION_SECRET` - This is a secret string that will be used for encrypting user sessions. You can enter any 32 char string or generate one using the `npm run make-session-secret` command.
-- `REFLOW_STORE_ID` - The ID of your Reflow store, required for using the library. You can obtain it from your Reflow store's [settings page](https://reflowhq.com/store/settings).
+- `REFLOW_PROJECT_ID` - The ID of your Reflow project, required for using the library. You can obtain it from your Reflow project's [settings page](https://reflowhq.com/project/settings).
 
 3. Start the development server with `npm run dev`
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the app running.
