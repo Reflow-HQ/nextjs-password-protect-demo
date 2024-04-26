@@ -12,7 +12,7 @@
     "make-session-secret": "node ./scripts/make-session-secret.js"
   },
   "dependencies": {
-    "@reflowhq/auth-next": "^1.1.1",
+    "@reflowhq/auth-next": "^2",
     "bcryptjs": "^2.4.3",
     "next": "14.1.0",
     "react": "^18",
